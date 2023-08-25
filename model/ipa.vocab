@@ -1,8 +1,7 @@
-[UNK]
-[CLS]
-[SEP]
-[PAD]
-[MASK]
+<sos>
+<eos>
+<unk>
+<pad>
 ɧ
 ɰ
 ʝ
